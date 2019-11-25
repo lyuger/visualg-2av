@@ -5,7 +5,7 @@ y: inteiro
 
 Inicio
 para y de 1 ate 10 faca
-      escreval ("Por favor, digite 10 números, lista " ,y, ":")
+      escreval ("Por favor, digite 10 nÃºmeros, lista " ,y, ":")
       leia (v[y])
 fimpara
 Fimalgoritmo
